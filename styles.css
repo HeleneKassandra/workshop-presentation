@@ -1,0 +1,22 @@
+.text-cadet-blue{
+    color: #39A2AE;
+}
+
+.text-turquoise{
+    color: #55DBCB;
+}
+
+.text-purple{
+    color: #AD719F;
+}
+
+.text-aquamarine {
+    color: #75E4B3;
+}
+.maxw-55{
+    max-width: 55rem;
+}
+.twoColumn-img{
+    margin:0;
+    height: auto!important;
+}
